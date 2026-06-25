@@ -1,1 +1,23 @@
-{"theme_color":"#c038ff","background_color":"#2EC6FE","icons":[{"purpose":"maskable","sizes":"512x512","src":"icon512_maskable.png","type":"image/png"},{"purpose":"any","sizes":"512x512","src":"icon512_rounded.png","type":"image/png"}],"orientation":"any","display":"standalone","dir":"auto","lang":"en-US","name":"SIC Student Portal","short_name":"SIC Portal","start_url":"https://siccollegeregistrar.com/"}
+{
+  "short_name": "Portal",
+  "name": "Student Grades Portal",
+  "icons": [
+    {
+      "src": "https://github.io",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://github.io",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "display": "standalone",
+  "orientation": "portrait"
+}
